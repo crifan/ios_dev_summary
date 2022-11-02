@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v0.6",
+  "lastUpdate": "20221102",
+  "gitRepoName": "ios_dev_summary",
+  "bookName": "iOS开发心得",
+  "bookDescription": "介绍Apple苹果的iOS方面的开发心得。包括ObjC开发相关的，包括ObjC语言相关的和UI界面类的；ObjC语言的包含约定、类、宏定义、函数、字符串、枚举、url、日志、数组；UI界面包含Storyboard、view、文本框、滚动视图、事件、启动页；以及Swift开发相关、相关工具和其他；工具包括包管理器的CocoaPods、Carthage。最后附上iOS开发相关资料。"
+}
