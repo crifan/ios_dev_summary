@@ -26,6 +26,7 @@
     * [CocoaPods](related_tool/package/cocoapods.md)
     * [Carthage](related_tool/package/carthage.md)
 * [其他](other_note/README.md)
+  * [和H5页面交互](other_note/interact_h5.md)
 * [附录](appendix/README.md)
   * [iOS开发资料](appendix/ios_dev_doc.md)
   * [参考资料](appendix/reference.md)
